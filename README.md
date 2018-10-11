@@ -1,5 +1,6 @@
 # Avro-Reader
 Python Script to Read Avro File.
+Python Version : 2.7
 
 Command:
 ```
